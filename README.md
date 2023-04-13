@@ -1,4 +1,6 @@
-### Hi there 👋
+### GM 👋
+
+I'm a backend developer with a strong financial background. I like to work with Python and Java. Currently learning Solidity and everything web3. Feel free to reach out to me on twitter ([@dev6124437](https://www.twitter.com/dev6124437)).
 
 <!--
 **6124437/6124437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
