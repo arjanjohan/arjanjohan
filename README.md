@@ -7,6 +7,7 @@ I have shipped DeFi and infrastructure work professionally, and I use hackathons
 ## 🔬 Selected work
 
 - **[Scaffold Move](https://github.com/arjanjohan/scaffold-move)** — a forkable Move dApp stack for Aptos and Movement, inspired by Scaffold-ETH developer ergonomics. Winner of [Movement Battle of Olympus](https://x.com/movement_xyz/status/1844454515636043950) and [Aptos Code Collision 2024](https://dorahacks.io/hackathon/code-collision/detail).
+- **[Move Lost & Found](https://github.com/arjanjohan/move-lost-and-found)** — read-only tracker for funds left behind on Aptos and Movement: unwithdrawn stake, unclaimed withdrawals, and deposits stranded in wound-down protocols. Weekly aggregate dashboard plus an in-browser address check. [Live site](https://move-lost-and-found.pages.dev).
 - **[1inch Fusion Move Contracts](https://github.com/arjanjohan/1inch-fusion-move-contracts)** — cross-chain EVM–Aptos swap protocol using Dutch auctions, hashlocks, and timelocks. Built for [ETHGlobal Unite DeFi hackathon](https://ethglobal.com/events/unite).
 - **[Aptos Multisig Chunked Publish](https://github.com/arjanjohan/aptos-multisig-chunked-publish-deployment)** — practical deployment and upgrade workflow for large Move packages using code objects and multisig governance.
 - **[Canopy SDK](https://github.com/Canopyxyz/canopy-sdk)** — professional TypeScript SDK work for the [Canopy](https://app.canopyhub.xyz) ecosystem.
